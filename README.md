@@ -1,6 +1,6 @@
 # Muralidhar Creates — Creative Asset Portfolio
 
-A growing portfolio of original digital asset concepts across five creative disciplines:
+A growing, publicly hosted portfolio of original digital asset concepts across five creative disciplines:
 
 - Icon design
 - Illustration design
